@@ -6,7 +6,7 @@ Process to create Github Repository directly from VS Code
 5. The Source Control icon in VS will ask to push to Github (as long as ext. installed)
 
 
-Cloning the repository from Github (GH) into VS Code was the most successful process for pulling the repository into the IDE
+Creating a repository directly from the IDE was the easiest method. VS will ask for the assocaited 
 Prior to submitting Commits to GH, the changes need to be staged in VS IDE
 In order to push commits to GH the command >>>>feat: add cli command<<<<< is used directly for the staged commits
 
@@ -16,8 +16,10 @@ Next Steps
 * Add Node.js to environment 
 * Determine how to get or feature reflected on Github ReadME as it is reflected in IDE. 
 * Understand what feat: add cli command means Determine how to add folders from IDE
-* See if emojis can be added to README :) 
+* See if emojis can be added to README.md :smirk:
+* Determine if screenshots can be added to README.md
+ 
 
 
 Issues
-* Commits stopped working after internet cut out. unsure how to restage commits and send to GitHub
+* Commits stopped working after internet cut out. Resolution, commits were queued in the 'Problems' section of the IDE, clicking on the icon will push code out
