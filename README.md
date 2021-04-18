@@ -6,7 +6,7 @@ Process to create Github Repository directly from VS Code
 5. The Source Control icon in VS will ask to push to Github (as long as ext. installed)
 
 
-Creating a repository directly from the IDE was the easiest method. VS will ask for the assocaited 
+Creating a repository directly from the IDE was the easiest method. VS will ask for the associated 
 Prior to submitting Commits to GH, the changes need to be staged in VS IDE
 In order to push commits to GH the command >>>>feat: add cli command<<<<< is used directly for the staged commits
 
