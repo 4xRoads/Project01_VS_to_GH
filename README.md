@@ -17,4 +17,5 @@ Next Steps
 * Determine how to get or feature reflected on Github ReadME as it is reflected in IDE. 
 * Understand what feat: add cli command means Determine how to add folders from IDE
 * See if emojis can be added to README :) 
+* lost internet...
 
